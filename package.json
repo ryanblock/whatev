@@ -1,6 +1,6 @@
 {
   "name": "whatev",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Sometimes you just need a module to make sure npm is available and you're connected to the internets",
   "main": "cjs.js",
   "module": "esm.mjs",
